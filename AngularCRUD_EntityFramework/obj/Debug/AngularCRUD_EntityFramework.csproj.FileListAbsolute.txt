@@ -1,0 +1,342 @@
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\WebGrease.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+c:\users\mohon-pc\documents\visual studio 2015\Projects\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\WebGrease.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\WebGrease.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\05-07-2017 office\New folder\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\WebGrease.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON-PC\Desktop\AngularCRUD_EntityFramework\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\WebGrease.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD-master\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\ApplicationInsights.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\csc.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\vbc.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll.config
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\AngularCRUD_EntityFramework.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Razor.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\WebGrease.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\EntityFramework.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.Web.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.Razor.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.dll
+C:\Users\MOHON\Desktop\Angularjs_EntityFramework_CRUD-master\Angularjs_EntityFramework_CRUD\AngularCRUD_EntityFramework\obj\Debug\AngularCRUD_EntityFramework.pdb

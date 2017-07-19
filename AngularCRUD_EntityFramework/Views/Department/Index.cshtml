@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AngularCRUD_EntityFramework.Models.Department>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+    <div ng-controller="empController2">
+
+        <div ng-init="departments()">
+           
+            <table class="table tab-content table-bordered">
+                <thead>
+                    <tr>
+                        <th>Sl.</th>
+                        <th>Name</th>
+                        <th>Code</th>
+                        <th>Action</th>
+                       
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="aDepartments in departments">
+                        <td>{{$index+1}}</td>
+                        <td>{{aDepartments.Name}}</td>
+                        <td>{{aDepartments.Code}}</td>
+                        <td><a  href="#!/department/edit/{{aDepartments.DepartmentId}}" class="btn btn-success"> Edit  </a> | <a href="#!/department/delete/{{aDepartments.DepartmentId}}" class="btn btn-danger"> Delete  </a>
+                       </td>     
+                       
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+       
+            
+</div>
+
+
